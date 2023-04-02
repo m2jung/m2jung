@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/104767659/229338343-a1dcf075-34fe-4fd2-aa6d-e41b7300821b.png)
+![image](https://user-images.githubusercontent.com/104767659/229338460-d3bf0038-c1e9-4ccc-ac73-5f1fa80bbcf6.png)
 
 ### Hi, I'm Yu Mijung
 🐋 Learning web full stack
