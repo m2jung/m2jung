@@ -12,8 +12,12 @@
 ##
 <h3>Project</h3>
 <span></span>
-<a href="https://github.com/m2jung/curator_refactory">2023.05.30 ~ 06.22 팀프로젝트 미술품 큐레이터 웹사이트</a> <br>
-<a href="https://github.com/m2jung/travel-front">2023.07.09 ~ 토이프로젝트 여행계획 웹사이트 </a>
+<li>
+  <a href="https://github.com/m2jung/curator_refactory">2023.05.30 ~ 06.22 팀프로젝트 미술품 큐레이터 웹사이트</a>
+</li><br>
+<li>
+  <a href="https://github.com/m2jung/travel-front">2023.07.09 ~ ing 토이프로젝트 여행계획 웹사이트</a>
+</li>
 
 
 
