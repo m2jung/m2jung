@@ -22,8 +22,7 @@ Learning web full stack
 
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
 
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
 
 
