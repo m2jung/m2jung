@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=250&section=header&text=Hello!%20Salut!%20안녕하세요!&fontSize=45&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hello!%20Salut!%20안녕하세요!&fontSize=35&&animation=twinkling)
 
 
 <p align="center">
