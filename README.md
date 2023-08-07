@@ -12,7 +12,7 @@ Learning web full stack
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2jung&layout=compact"> <br>
-<img src="https://img.shields.io/badge/tistory-gray?style=flat&logo=tistory&logoColor=white" />
+<a href="https://zamizami.tistory.com/category" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tistory-gray?style=flat&logo=tistory&logoColor=white" /></a>
 </p>
 <!-- 	<div align="center">
 	<img src="https://img.shields.io/badge/Java-purple?style=flat&logo=Java&logoColor=white" />
