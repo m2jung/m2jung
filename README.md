@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hello!%20Salut!%20안녕하세요!&fontSize=32&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=header&text=&fontSize=32&&animation=twinkling)
 <p align="center">
 Learning web full stack
 <br>
